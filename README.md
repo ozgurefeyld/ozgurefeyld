@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**ozgurefeyld/ozgurefeyld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Merhaba, ben Özgür Efe Yıldı
 
-Here are some ideas to get you started:
+🎓 Ondokuz Mayıs Üniversitesi - İnsansız Araç Teknikerliği öğrencisiyim.
+💻 Kod yazmayı seviyorum ve özellikle Python ile projeler geliştirmeye odaklanıyorum.
+🤖 Hedefim, Python kullanarak yapay zeka uygulamaları geliştirmek ve bu alanda kendimi ilerletmek.
+🚀 Öğrenmeye, denemeye ve yeni teknolojiler keşfetmeye her zaman açığım.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 İlgi Alanlarım
+
+Python ile kodlama
+
+Yapay zeka ve makine öğrenmesi
+
+Otomasyon sistemleri ve insansız araç teknolojileri
+
+📫 Bana Ulaş
+
+📧 E-posta: ozgurefeyildi7@gmail.com
+
+🐙 GitHub: github.com/ozgurefeyld
+
+💼 LinkedIn: linkedin.com/in/ozgurefeyıldı
